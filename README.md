@@ -6,6 +6,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 021 - The Doobie Brothers - 1973 - Long Train Runnin'
 * 022 - Joe Cocker - 1969 - With a Little Help From My Friends
 * 030 - ZZ Top - 1973 - La Grange
+* 031 - Rolling Stones - 1966 - Paint It Black
 * 040 - Eric Clapton - 1977 - Cocaine
 * 041 - Pink FLoyd - 1979 - Another Brick in the Wall (Part I)
 * 042 - Pink Floyd - 1979 - The Happiest Days of Our Lives
@@ -30,6 +31,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 160 - ACDC - 1980 - Back In Black
 * 170 - Van Halen - 1983 - Jump
 * 180 - ZZ Top - 1983 - Gimme All Your Lovin'
+* 161 - Rolling Stones - 1981 - Start Me Up
 * 190 - Blondie - 1979 - Atomic
 * 191 - The Stranglers - 1986 - Always the Sun
 * 192 - Pat Benatar - 1979 - We Live For Love
