@@ -1,5 +1,5 @@
 # ultimate-rock-playlist
-An attempt at creating the ultimate rock playlist, feel free to contribute !
+An attempt at creating the ultimate 70-90's rock playlist, feel free to contribute !
 
 * 010 - Santana - 1976 - Europa
 * 020 - Lynyrd Skynyrd - 1974 - Sweet Home Alabama
