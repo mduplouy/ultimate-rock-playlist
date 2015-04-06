@@ -4,11 +4,12 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 010 - Santana - 1976 - Europa
 * 020 - Lynyrd Skynyrd - 1974 - Sweet Home Alabama
 * 021 - The Doobie Brothers - 1973 - Long Train Runnin'
+* 022 - Joe Cocker - 1969 - With a Little Help From My Friends
 * 030 - ZZ Top - 1973 - La Grange
 * 040 - Eric Clapton - 1977 - Cocaine
-* 041 - Pink FLoyd - Another Brick in the Wall (Part I)
-* 042 - Pink Floyd - The Happiest Days of Our Lives
-* 043 - Pink Floyd - Another Brick in the Wall (Part II)
+* 041 - Pink FLoyd - 1979 - Another Brick in the Wall (Part I)
+* 042 - Pink Floyd - 1979 - The Happiest Days of Our Lives
+* 043 - Pink Floyd - 1979 - Another Brick in the Wall (Part II)
 * 050 - Dire Straits - 1978 - Sultans Of Swing
 * 060 - Deep Purple - 1972 - Smoke On The Water
 * 061 - B-52's - 1979 - Planet Claire
@@ -16,7 +17,10 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 071 - Dire Straits - 1979 - Lady writer
 * 080 - ACDC - 1975 - T.N.T.
 * 090 - The Clash - 1979 - London Calling
+* 091 - The Knack - 1979 - My Sharona
+* 092 - Queen - 1978 - Fat Bottomed Girls
 * 100 - Gary Moore - 1978 - Parisienne Walkways
+* 101 - The Beatles - 1968 - Helter Skelter
 * 110 - Queen - 1974 - Now I'm Here
 * 120 - Joan Jett and the Blackhearts - 1981 - I Love Rock'n Roll
 * 121 - Ram Jam - 1977 - Black Betty
@@ -29,10 +33,12 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 190 - Blondie - 1979 - Atomic
 * 191 - The Stranglers - 1986 - Always the Sun
 * 192 - Pat Benatar - 1979 - We Live For Love
+* 193 - Jeff Healey - 1988 - River Of No Return
 * 200 - Status Quo - 1986 - In the Army now
 * 210 - Yes - 1983 - Owner of a Lonely Heart
 * 220 - Nena - 1983 - 99 Luftballons
 * 221 - Europe - 1988 - Ready or not
+* 222 - Kim Wilde - 1982 - Kids In America
 * 230 - Billy Idol - 1983 - Rebel Yell
 * 240 - Big Soul - 1995 - Le Brio
 * 241 - Lenny Kravitz - 1993 - Are You Gonna Go My Way
