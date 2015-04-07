@@ -12,6 +12,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 042 - Pink Floyd - 1979 - The Happiest Days of Our Lives
 * 043 - Pink Floyd - 1979 - Another Brick in the Wall (Part II)
 * 050 - Dire Straits - 1978 - Sultans Of Swing
+* 051 - Creedence Clearwater Revival - 1969 - Fortunate son
 * 060 - Deep Purple - 1972 - Smoke On The Water
 * 061 - B-52's - 1979 - Planet Claire
 * 070 - Pat Benatar - 1988 - All Fired Up
@@ -32,6 +33,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 170 - Van Halen - 1983 - Jump
 * 180 - ZZ Top - 1983 - Gimme All Your Lovin'
 * 161 - Rolling Stones - 1981 - Start Me Up
+* 162 - KISS - 1979 - I Was Made For Lovin' You
 * 190 - Blondie - 1979 - Atomic
 * 191 - The Stranglers - 1986 - Always the Sun
 * 192 - Pat Benatar - 1979 - We Live For Love
@@ -48,6 +50,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 260 - Foreigner - 1981 - Urgent
 * 270 - Toto - 1992 - Don't Chain My Heart
 * 280 - Pretenders  - 1994 -  I'm A Mother
+* 281 - Pixies - 1988 - Where's My Mind ?
 * 290 - Alain Bashung - 1995 - Osez Joséphine
 * 300 - Scorpions - 1984 - Rock You Like A Hurricane
 * 310 - Europe - 1986 - On broken wings
