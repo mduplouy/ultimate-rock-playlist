@@ -60,6 +60,7 @@ An attempt at creating the ultimate 70-90's rock playlist, feel free to contribu
 * 350 - REM - 1991 - Losing My Religion
 * 360 - Texas - 1989 - Fight The Feeling
 * 370 - Sheryl Crow - 1996 - If It Makes You Happy
+* 375 - Mettalica - 1992 - Nothing Else Matters
 * 380 - Scorpions - 1990 - Send Me An Angel
 * 381 - Bon Jovi - 1995 - Always
 * 390 - Genesis - 1983 - Mama
